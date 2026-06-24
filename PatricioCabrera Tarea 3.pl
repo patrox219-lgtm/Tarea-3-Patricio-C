@@ -40,7 +40,6 @@ estudiante(maximiliano, bases_datos, 5.9).
 % -------------------
 % Reglas
 % -------------------
-% verifica si el estudiante esta en ese curso
 pertenece(Nombre, Curso) :-
     estudiante(Nombre, Curso, _).
 % nota mayor o igual a 4.0 = aprobado
