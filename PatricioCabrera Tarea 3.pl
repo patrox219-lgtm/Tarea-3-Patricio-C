@@ -1,7 +1,3 @@
-% centro_apoyo.pl
-% Tarea 3 - PTEC102
-% Sistema de Centro de Apoyo Academico
-% -------------------
 % Estudiantes: nombre, curso y nota
 % -------------------
 % prolog
